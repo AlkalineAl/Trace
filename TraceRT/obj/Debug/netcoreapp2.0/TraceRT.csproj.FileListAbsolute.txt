@@ -1,0 +1,11 @@
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\bin\Debug\netcoreapp2.0\TraceRT.deps.json
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\bin\Debug\netcoreapp2.0\TraceRT.runtimeconfig.json
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\bin\Debug\netcoreapp2.0\TraceRT.runtimeconfig.dev.json
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\bin\Debug\netcoreapp2.0\TraceRT.dll
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\bin\Debug\netcoreapp2.0\TraceRT.pdb
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.csprojResolveAssemblyReference.cache
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.csproj.CoreCompileInputs.cache
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.AssemblyInfoInputs.cache
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.AssemblyInfo.cs
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.dll
+C:\Users\alkal\Source\Repos\TraceRT\TraceRT\obj\Debug\netcoreapp2.0\TraceRT.pdb

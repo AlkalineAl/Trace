@@ -1,0 +1,88 @@
+Tracing route to vk.com over a maximum of 30 hops:
+1	101 ms	4 ms	1 ms	192.168.1.1 	[myhome.ru]
+2	*	*	*	TimedOut
+3	4 ms	3 ms	2 ms	192.168.0.66
+4	8 ms	3 ms	3 ms	10.254.244.6
+5	3 ms	3 ms	5 ms	10.254.244.5
+6	8 ms	6 ms	4 ms	10.109.11.94
+7	4 ms	4 ms	4 ms	212.188.1.5 	[mag9-cr01-be12.51.msk.stream-internet.net]
+8	4 ms	3 ms	4 ms	195.34.50.73 	[a197-cr04-be10.77.msk.stream-internet.net]
+9	3 ms	4 ms	3 ms	212.188.55.30 	[a197-DPI-IN.msk.stream-internet.net]
+10	3 ms	5 ms	3 ms	212.188.55.101 	[a197-cr03.msk.stream-internet.net]
+11	15 ms	16 ms	15 ms	212.188.55.125 	[a197-cr04-be19.10.msk.stream-internet.net]
+12	15 ms	22 ms	15 ms	195.34.50.74 	[mag9-cr01-be10.77.msk.stream-internet.net]
+13	17 ms	16 ms	16 ms	212.188.2.37 	[oct-cr03-be1.78.spb.stream-internet.net]
+14	15 ms	15 ms	14 ms	212.188.18.66 	[vkontakte.spb.stream-internet.net]
+15	15 ms	15 ms	16 ms	87.240.191.202 	[srv202-191-240-87.vk.com]
+16	*	*	*	TimedOut
+17	16 ms	982 ms	15 ms	95.213.11.181 	[srv181-11-213-95.vk.com]
+Trace complete.e complete.Tracing route to vk.com over a maximum of 30 hops:
+1	110 ms	1 ms	3 ms	192.168.1.1 	[myhome.ru]
+2	*	*	*	TimedOut
+3	3 ms	2 ms	5 ms	192.168.0.66
+4	7 ms	3 ms	3 ms	10.254.244.6
+5	9 ms	3 ms	3 ms	10.254.244.5
+6	*	*	*	TimedOut
+7	4 ms	4 ms	3 ms	212.188.1.5 	[mag9-cr01-be12.51.msk.stream-internet.net]
+8	4 ms	4 ms	4 ms	195.34.50.73 	[a197-cr04-be10.77.msk.stream-internet.net]
+9	3 ms	3 ms	3 ms	212.188.55.30 	[a197-DPI-IN.msk.stream-internet.net]
+10	3 ms	4 ms	3 ms	212.188.55.101 	[a197-cr03.msk.stream-internet.net]
+11	15 ms	16 ms	15 ms	212.188.55.125 	[a197-cr04-be19.10.msk.stream-internet.net]
+12	15 ms	15 ms	16 ms	195.34.50.74 	[mag9-cr01-be10.77.msk.stream-internet.net]
+13	17 ms	18 ms	17 ms	212.188.2.37 	[oct-cr03-be1.78.spb.stream-internet.net]
+14	15 ms	14 ms	15 ms	212.188.18.66 	[vkontakte.spb.stream-internet.net]
+15	15 ms	15 ms	15 ms	87.240.191.202 	[srv202-191-240-87.vk.com]
+16	*	*	*	TimedOut
+17	15 ms	15 ms	15 ms	95.213.11.181 	[srv181-11-213-95.vk.com]
+Trace complete.Tracing route to ya.ru over a maximum of 30 hops:
+1	71 ms	1 ms	1 ms	192.168.1.1 	[myhome.ru]
+2	*	*	*	TimedOut
+3	5 ms	2 ms	2 ms	192.168.0.66
+4	3 ms	3 ms	4 ms	10.254.244.6
+5	3 ms	2 ms	2 ms	10.254.244.5
+6	4 ms	3 ms	3 ms	212.188.1.5 	[mag9-cr01-be12.51.msk.stream-internet.net]
+7	6 ms	7 ms	8 ms	195.34.50.150 	[ss-cr04-be2.77.msk.stream-internet.net]
+8	4 ms	8 ms	13 ms	195.34.59.141 	[mar-cr02-be8.153.msk.stream-internet.net]
+9	4 ms	3 ms	3 ms	212.188.41.54
+10	11 ms	11 ms	10 ms	213.180.213.88 	[m9-p1-be11.yndx.net]
+11	*	*	*	TimedOut
+12	13 ms	11 ms	11 ms	87.250.250.242 	[ya.ru]
+Trace complete.26.12.2017 23:23:21
+Tracing route to vk.com over a maximum of 30 hops:
+1	7 ms	1 ms	1 ms	192.168.1.1 	[myhome.ru]
+2	*	*	*	TimedOut
+3	3 ms	3 ms	2 ms	192.168.0.66
+4	8 ms	4 ms	3 ms	10.254.244.6
+5	8 ms	2 ms	3 ms	10.254.244.5
+6	4 ms	4 ms	4 ms	10.109.11.94
+7	11 ms	908 ms	4 ms	212.188.1.5 	[mag9-cr01-be12.51.msk.stream-internet.net]
+8	4 ms	3 ms	3 ms	195.34.50.73 	[a197-cr04-be10.77.msk.stream-internet.net]
+9	3 ms	3 ms	3 ms	212.188.55.30 	[a197-DPI-IN.msk.stream-internet.net]
+10	3 ms	3 ms	3 ms	212.188.55.101 	[a197-cr03.msk.stream-internet.net]
+11	15 ms	14 ms	15 ms	212.188.55.25 	[a197-cr04-be18.10.msk.stream-internet.net]
+12	15 ms	15 ms	15 ms	195.34.50.74 	[mag9-cr01-be10.77.msk.stream-internet.net]
+13	16 ms	16 ms	18 ms	212.188.2.37 	[oct-cr03-be1.78.spb.stream-internet.net]
+14	*	*	*	TimedOut
+15	15 ms	15 ms	15 ms	87.240.191.247 	[srv247-191-240-87.vk.com]
+16	*	*	*	TimedOut
+17	*	*	*	TimedOut
+18	15 ms	14 ms	14 ms	87.240.129.72 	[srv72-129-240-87.vk.com]
+Trace complete.26.12.2017 23:24:04
+Tracing route to youtube.com over a maximum of 30 hops:
+1	8 ms	1 ms	1 ms	192.168.1.1 	[myhome.ru]
+2	*	*	*	TimedOut
+3	3 ms	2 ms	3 ms	192.168.0.66
+4	4 ms	3 ms	3 ms	10.254.244.6
+5	3 ms	3 ms	3 ms	10.254.244.5
+6	4 ms	3 ms	3 ms	212.188.1.5 	[mag9-cr01-be12.51.msk.stream-internet.net]
+7	4 ms	4 ms	3 ms	195.34.50.73 	[a197-cr04-be10.77.msk.stream-internet.net]
+8	3 ms	5 ms	4 ms	212.188.54.194
+9	4 ms	4 ms	3 ms	212.188.55.101 	[a197-cr03.msk.stream-internet.net]
+10	4 ms	5 ms	5 ms	212.188.55.125 	[a197-cr04-be19.10.msk.stream-internet.net]
+11	4 ms	4 ms	4 ms	212.188.28.150 	[a433-cr01-be2.77.msk.stream-internet.net]
+12	4 ms	4 ms	4 ms	72.14.211.222
+13	5 ms	5 ms	4 ms	108.170.250.36
+14	6 ms	5 ms	5 ms	108.170.250.33
+15	5 ms	5 ms	5 ms	108.170.227.177
+16	6 ms	5 ms	4 ms	173.194.32.230
+Trace complete.26.12.2017 23:24:57
